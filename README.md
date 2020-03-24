@@ -9,6 +9,11 @@ Links to dashboards, datasets, and other resources pertinent to COVID-19
 - [COVID-19: Chest X-Ray and CT images](https://github.com/ieee8023/covid-chestxray-dataset)
 - [COVID-19 Tweets Dataset from IEEE](https://ieee-dataport.org/open-access/corona-virus-covid-19-tweets-dataset)
 
+## Technique
+- [Cleaning the John Hopkins dataset in R](https://joachim-gassen.github.io/2020/03/tidying-the-new-johns-hopkins-covid-19-datasests/)
+- [Building a Coronavirus dashboard in R](https://www.statsandr.com/blog/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r/)
+-- [Sample dashboard with source code](https://www.antoinesoetewey.com/files/coronavirus-dashboard.html)
+
 ##  Metadata
 - [Schema for Coronavirus related topics](http://blog.schema.org/2020/03/schema-for-coronavirus-special.html)
 
