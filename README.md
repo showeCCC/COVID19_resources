@@ -3,6 +3,12 @@ Links to dashboards, datasets, and other resources pertinent to COVID-19
 
 ## Dashboards
 - [John Hopkins Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html)
+- [Boston Globe's Coronavirus Dashboard](https://www.bostonglobe.com/nation/special-reports/coronavirus/)
+- [Financial Times COVID-19 Tracker](https://www.ft.com/coronavirus-latest)
+- [Microsoft COVID-19 Dashboard](https://www.bing.com/covid)
+- [New York Times Daily Count Tracker](https://www.nytimes.com/interactive/2020/03/21/upshot/coronavirus-deaths-by-country.html)
+- [Our World in Data COVID-19 Statistics and Reports](https://ourworldindata.org/coronavirus)
+- [Tableau COVID-19 Data Hub](https://www.tableau.com/covid-19-coronavirus-data-resources)
 
 ## Datasets
 - [COVID-19 count reports data (daily .csv)](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
