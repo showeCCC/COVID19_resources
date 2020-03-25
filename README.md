@@ -15,6 +15,8 @@ Links to dashboards, datasets, and other resources pertinent to COVID-19
 - [COVID-19 Open Research Dataset](https://pages.semanticscholar.org/coronavirus-research)
 - [COVID-19: Chest X-Ray and CT images](https://github.com/ieee8023/covid-chestxray-dataset)
 - [COVID-19 Tweets Dataset from IEEE](https://ieee-dataport.org/open-access/corona-virus-covid-19-tweets-dataset)
+- [Datasets compiled by Semantic Scholar](https://pages.semanticscholar.org/coronavirus-research)
+   - provides links to fulltext downloads as well as bibliographic citation metadata
 
 ## Technique
 - [Cleaning the John Hopkins dataset in R](https://joachim-gassen.github.io/2020/03/tidying-the-new-johns-hopkins-covid-19-datasests/)
