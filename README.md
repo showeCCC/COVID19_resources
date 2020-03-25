@@ -3,12 +3,18 @@ Links to dashboards, datasets, and other resources pertinent to COVID-19
 
 ## Dashboards
 - [John Hopkins Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html)
+- [Boston Children's Hospital HealthMap](https://www.healthmap.org/covid-19/)
 - [Boston Globe's Coronavirus Dashboard](https://www.bostonglobe.com/nation/special-reports/coronavirus/)
 - [Financial Times COVID-19 Tracker](https://www.ft.com/coronavirus-latest)
+- [Kaiser Family Foundation dashboard](https://www.kff.org/global-health-policy/fact-sheet/coronavirus-tracker/)
+- [NBC News New York Timelapse Tracker](https://www.nbcnewyork.com/news/national-international/map-watch-the-coronavirus-cases-spread-across-the-world/2303276/)
 - [Microsoft COVID-19 Dashboard](https://www.bing.com/covid)
 - [New York Times Daily Count Tracker](https://www.nytimes.com/interactive/2020/03/21/upshot/coronavirus-deaths-by-country.html)
 - [Our World in Data COVID-19 Statistics and Reports](https://ourworldindata.org/coronavirus)
 - [Tableau COVID-19 Data Hub](https://www.tableau.com/covid-19-coronavirus-data-resources)
+- [University of Virginia COVID-19 Surveillance Dashboard](https://nssac.bii.virginia.edu/covid-19/dashboard/)
+- [University of Washington Global Trend map](https://hgis.uw.edu/virus/)
+= [WBUR Massachusetts COVID-19 Map](https://www.wbur.org/commonhealth/2020/03/09/coronavirus-cases-massachusetts-map)
 
 ## Datasets
 - [COVID-19 count reports data (daily .csv)](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
@@ -21,7 +27,7 @@ Links to dashboards, datasets, and other resources pertinent to COVID-19
 ## Technique
 - [Cleaning the John Hopkins dataset in R](https://joachim-gassen.github.io/2020/03/tidying-the-new-johns-hopkins-covid-19-datasests/)
 - [Building a Coronavirus dashboard in R](https://www.statsandr.com/blog/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r/)
--- [Sample dashboard with source code](https://www.antoinesoetewey.com/files/coronavirus-dashboard.html)
+   - [Sample dashboard with source code](https://www.antoinesoetewey.com/files/coronavirus-dashboard.html)
 
 ##  Metadata
 - [Schema for Coronavirus related topics](http://blog.schema.org/2020/03/schema-for-coronavirus-special.html)
