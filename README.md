@@ -5,6 +5,7 @@ Links to dashboards, datasets, and other resources pertinent to COVID-19
 - [John Hopkins Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html)
 - [Boston Children's Hospital HealthMap](https://www.healthmap.org/covid-19/)
 - [Boston Globe's Coronavirus Dashboard](https://www.bostonglobe.com/nation/special-reports/coronavirus/)
+- [EBSCO COVID-19 Healthcare Resource Center](https://more.ebsco.com/EBSCO-COVID-19-ResourceCenter.html)
 - [Financial Times COVID-19 Tracker](https://www.ft.com/coronavirus-latest)
 - [Kaiser Family Foundation dashboard](https://www.kff.org/global-health-policy/fact-sheet/coronavirus-tracker/)
 - [NBC News New York Timelapse Tracker](https://www.nbcnewyork.com/news/national-international/map-watch-the-coronavirus-cases-spread-across-the-world/2303276/)
