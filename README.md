@@ -16,6 +16,7 @@ Links to dashboards, datasets, and other resources pertinent to COVID-19
 - [University of Virginia COVID-19 Surveillance Dashboard](https://nssac.bii.virginia.edu/covid-19/dashboard/)
 - [University of Washington Global Trend map](https://hgis.uw.edu/virus/)
 = [WBUR Massachusetts COVID-19 Map](https://www.wbur.org/commonhealth/2020/03/09/coronavirus-cases-massachusetts-map)
+- [Weather Channel / IBM Map](https://weather.com/coronavirus/l/42.5739,-70.9505)
 
 ## Datasets
 - [COVID-19 count reports data (daily .csv)](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
@@ -36,6 +37,7 @@ Links to dashboards, datasets, and other resources pertinent to COVID-19
 ## Scientific Literature
 - [National Library of Medicine Litcovid Portal](https://www.ncbi.nlm.nih.gov/research/coronavirus/)
 - [World Health Organization (WHO) Database of Scientific Research](https://worldhealthorg-my.sharepoint.com/personal/garnicacarrenoj_who_int/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fgarnicacarrenoj%5Fwho%5Fint%2FDocuments%2FCOVID%2D19%2DDatabase%2DFiles&originalPath=aHR0cHM6Ly93b3JsZGhlYWx0aG9yZy1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9nYXJuaWNhY2FycmVub2pfd2hvX2ludC9Fbnp4blNKdDY4cElxTEJ3UFlkcWtxY0IxS0hib0NBUUpSTjNta1R0M1pxREFBP3J0aW1lPWhZNmVCM3ZQMTBn)
+- [ASTM Standards & COVID-19](https://www.astm.org/COVID-19/)
 - [BioRxiv and MedRxiv COVID-19 Preprints](https://connect.biorxiv.org/relate/content/181)
 - [Semantic Search COVID database](https://www.semanticscholar.org/?utm_source=google&utm_medium=cpc&utm_campaign=Search_Brand&utm_content=Search_Brand_Head_Terms&utm_term=%2Bsemantic%20%2Bscholar&hsa_net=adwords&hsa_grp=28602411669&hsa_ver=3&hsa_acc=1084018559&hsa_ad=315319556093&hsa_kw=%2Bsemantic%20%2Bscholar&hsa_mt=b&hsa_tgt=kwd-191198275269&hsa_src=g&hsa_cam=407359989&gclid=EAIaIQobChMIj66Gq5iz6AIVFMDICh3haQl3EAAYASAAEgIONPD_BwE)
 - [Taylor & Francis COVID-19 Portal](https://www.tandfonline.com/action/doSearch?AllField=%22coronavirus%22+OR+%22COVID-19%22&content=standard&countTerms=true&target=default&pageSize=50&subjectTitle=&startPage=&sortBy=Earliest)
